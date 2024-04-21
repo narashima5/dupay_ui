@@ -9,7 +9,7 @@ export default function Quote() {
                     <Image src={logo} alt=""></Image>
                 </div>
                 <div>
-                    <p>Your <div>money</div> , your way.</p>
+                    <p>Your <p>money</p> , your way.</p>
                 </div>
             </div>
         </>
